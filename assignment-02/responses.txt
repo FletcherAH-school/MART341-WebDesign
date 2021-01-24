@@ -1,11 +1,15 @@
-1. 
+1. The internet is what connects everything and the world wide web is where you can access 
+ certain things linked through this connection. The world wide web is part of the internet.
 
-2.
+2. The internet connects all the things with access to it together and can shuttle information between individual systems.
 
-3.
+3. A directory is really just another name for a folder and has a familial relation to items stored 
+ in it, parent, grandparent, child, and so on based on the depth at which it is stored.
 
-4.
+4. A VCS lets the developer save specific instances of a project for reference when making changes or advancements.
 
-5.
+5. "capture.JPG"
 
-6.
+6. I honestly just like most art, I lean towards styles with unconventional means of creation and the aesthetic means 
+ more to me than the meaning a lot of the time but not in every case. If the art created itself it is automatically cool to me. 
+ 
