@@ -1,4 +1,4 @@
-1.[youtube](https://www.youtube.com/) , https://www.reddit.com/ , https://www.banggood.com/
+1.[youtube](https://www.youtube.com/) , [reddit](https://www.reddit.com/) , [banggood](https://www.banggood.com/)
 
 2. An IP is basically your device's address and is used to clarify where information needs
  to be sent and where to look for that information. A DNS is what helps your device find the
