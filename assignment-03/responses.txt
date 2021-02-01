@@ -1,11 +1,19 @@
-1.
+1.https://www.youtube.com/ , https://www.reddit.com/ , 
 
-2.
+2. An IP is basically your device's address and is used to clarify where information needs 
+ to be sent and where to look for that information. A DNS is what helps your device find the 
+ right IP to search for the info, kind of just the middle man in the process it seems. 
+ 
+3.A cookie is a packet of information sent to your computer from a website and is stored 
+ on your device to keep track of activity on their site
 
-3.
+4.Protical, Domain name, and the path
 
-4.
+5.See README.md
 
-5.
+6. 
+  a. I didn't even know what a DNS was at all
+  
+  b. I think I figured out ATOM so that's cool too
 
-6.
+  c. I also didn't know the parts of a URL
