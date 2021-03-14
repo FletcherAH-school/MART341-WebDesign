@@ -1,0 +1,20 @@
+div {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:darkorange;
+}
+
+.myClass{
+    font-size: 50px;
+    color:black;
+    font-weight: bold;
+}
+
+body{
+    background-color: lightgray;
+    background-blend-mode:luminosity;
+}
+
+span{
+    font-family:fantasy;
+    color:purple
+}
