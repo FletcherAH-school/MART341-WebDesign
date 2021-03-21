@@ -1,0 +1,41 @@
+div {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:yellow;
+}
+
+body{
+    background-color: rgba(0, 0, 0, .90);
+    background-blend-mode:luminosity;
+    text-align: center;
+}
+
+span{
+    font-family:fantasy;
+    color:rgb(33, 33, 222);
+}
+
+/* these are my classes */
+
+.container {
+  background-color:black;
+  width: 600px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid rgb(25, 25, 166);
+}
+.brla{
+    color: rgb(255, 184, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .red {
+    color: rgb(255, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .orange {
+    color: rgb(255, 184, 82);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .aqua {
+    color: rgb(0, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
