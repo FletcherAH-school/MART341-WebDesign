@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    background-color: lightslategrey;
+}
+
+.container {
+    background-color:white;
+    width: 750px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+div{
+    font-family: IDM Minimal, sans-serif;
+}
+
+h1,h3,h5{
+    font-family: Hai California, sans-serif;
+}
+
+h1::first-letter{
+    font-size: 80px;
+}
+
+.op {
+    font-size: 15px;
+}
+
+.p2 {
+    font-size: 15px;
+}
+
+.p3 {
+    font-size: 15px;
+}
+
+.p4 {
+    font-size: 15px;
+}
+
+a:link {
+    color: indigo;
+}
+a:hover {
+    color:green;
+}
