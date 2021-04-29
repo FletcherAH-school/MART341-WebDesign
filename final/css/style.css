@@ -1,0 +1,110 @@
+
+body{
+    background-color:white;
+    
+}
+
+.dropdown-item{
+    text-align: left !important;
+}
+
+.textbox{
+    text-align: left;
+   padding-left: 1em; 
+   padding-right: 1em;
+}
+
+.navbar-brand{
+    font-size: 30px;
+}
+
+.nav-link{
+    font-size: 17.5px;
+}
+
+.bg-dark{
+    background-color: black !important;
+}
+
+.dropdown-toggle{
+    text-align: right !important;
+    align-items: right !important;
+}
+
+.dropdown-menu-dark{
+    background-color: black !important;
+}
+
+.red{
+    color: red !important;
+}
+
+.purp{
+    color: rgb(255,0,255) !important;
+}
+
+.blue{
+    color: blue !important;
+}
+
+.green{
+    color: seagreen !important; 
+}
+
+.white{
+    color: white;
+}
+
+.navbar-nav {
+    margin-left: auto !important;
+    padding-right: 5em;
+}
+
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 800px;
+}
+
+.artbox {
+    text-align: center !important;
+}
+
+.halfsize{
+    width: 100%;
+    max-width: 800px;
+    padding-bottom: 4em;
+    margin: auto;
+    display: block;
+}
+
+.responsive-video {
+    position: relative;
+    padding-bottom: 2em;
+    padding-top: 2em; 
+    overflow: hidden;
+}
+
+.responsive-video iframe,
+.responsive-video object,
+.responsive-video embed {
+    position: center;
+    top: 0;
+    left: 0;
+    width: 80%;
+    height: 50%;
+
+}
+
+.vidbox{
+    text-align: center !important;
+    
+}
+
+.soundbox{
+    max-height: 110px;
+    text-align: center !important;
+}

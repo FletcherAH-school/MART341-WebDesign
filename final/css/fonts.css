@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'IDM Minimal';
+    src: url('assignment-13/fonts/IDM Minimal.ttf');
+    font-size: normal;
+}
+
+@font-face {
+    font-family: 'MinimalThin-Regular';
+    src: url('assignment-13/fonts/MinimalThin-Regular.ttf');
+    font-size: large;
+}
+
+@font-face {
+    font-family: 'Hai California';
+    src: url('assignment-13/fonts/Hai California.ttf');
+    font-size: large;
+}
